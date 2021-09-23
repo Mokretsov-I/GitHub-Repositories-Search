@@ -1,0 +1,15 @@
+.search-item__description{
+  margin-bottom: 15px;
+}
+
+.search-detail__languages{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  margin-bottom: 15px;
+}
+
+.search-item__pull-requests,
+.search-item__issues{
+  margin-bottom: 15px;
+}
+

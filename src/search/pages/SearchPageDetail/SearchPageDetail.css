@@ -1,0 +1,19 @@
+.search-detail{
+  max-width: 1000px;
+  margin: 20px auto;
+  width: 100%;
+}
+
+.search-detail__back{
+  display: block;
+  text-decoration: none;
+  font-size: 1.2em;
+  color: black;
+  transition: all .3s ease 0s;
+  margin-bottom: 20px;
+}
+
+.search-detail__back:hover{
+  text-decoration: underline;
+  color: blue;
+}
